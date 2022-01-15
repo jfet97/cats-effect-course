@@ -1,0 +1,2 @@
+[debug] Created transactional ClassFileManager with tempDir = /Volumes/PortableSSD/MacMini/Software_development/Scala/cats-effect-course/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /Volumes/PortableSSD/MacMini/Software_development/Scala/cats-effect-course/project/target/scala-2.12/sbt-1.0/classes.bak
