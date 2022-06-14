@@ -4,7 +4,7 @@ lazy val root = project
   .in(file("."))
   .settings(
     name := "cats-effect",
-    version := "0.1.0",
+    version := "0.1.1",
 
     scalaVersion := scala3Version,
 
